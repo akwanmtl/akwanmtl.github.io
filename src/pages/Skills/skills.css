@@ -1,0 +1,47 @@
+#skills{
+  min-height: 100vh;
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+  background-color: var(--secondary-colour);
+}
+
+
+.skill-text {
+  font-size: 32px;
+  text-align: justify;
+  margin-bottom: 15px;
+  color: var(--primary-colour);
+  margin-top: 4rem;
+}
+
+.skill-text span{
+  font-family: 'consolas';
+  margin-bottom: 15px;
+  color: var(--tertiary-colour);
+}
+
+.skill-icon {
+  width: 120px;
+  height: 120px;
+  margin: 3px;
+  text-align: center;
+  padding: 5px;
+  line-height: 120px;
+  
+}
+
+.skill-icon img {
+  width: 100%;
+}
+
+.skill-box {
+  justify-content: center;
+}
+
+.skill-container {
+  margin-top: 4rem;
+  padding: 15px;
+  background-color: var(--tertiary-colour);
+}
+
+

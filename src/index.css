@@ -1,0 +1,16 @@
+:root {
+  --primary-colour: #289dd7;
+  --secondary-colour: #090C15;
+  --tertiary-colour: #fdf9fb;
+  --primary-background: #5d5d5d;
+}
+
+html, body {
+  height: 100%;
+}
+
+@media(max-width: 600px) {
+  body {
+  background-color: var(--tertiary-colour);
+  }
+}

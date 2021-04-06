@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ccc0d4f.chunk.css",
+    "main.js": "/static/js/main.79015aaa.chunk.js",
+    "main.js.map": "/static/js/main.79015aaa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.f26360e9.chunk.js": "/static/js/2.f26360e9.chunk.js",
+    "static/js/2.f26360e9.chunk.js.map": "/static/js/2.f26360e9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.3ccc0d4f.chunk.css.map": "/static/css/main.3ccc0d4f.chunk.css.map",
+    "static/js/2.f26360e9.chunk.js.LICENSE.txt": "/static/js/2.f26360e9.chunk.js.LICENSE.txt",
+    "static/media/Annie_Kwan_Resume.1ac80e13.pdf": "/static/media/Annie_Kwan_Resume.1ac80e13.pdf",
+    "static/media/particles.css": "/static/media/background2.878889d6.jpg",
+    "static/media/logo.bfb779d6.png": "/static/media/logo.bfb779d6.png",
+    "static/media/profilepic.fd26b478.png": "/static/media/profilepic.fd26b478.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0605945.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f26360e9.chunk.js",
+    "static/css/main.3ccc0d4f.chunk.css",
+    "static/js/main.79015aaa.chunk.js"
+  ]
+}

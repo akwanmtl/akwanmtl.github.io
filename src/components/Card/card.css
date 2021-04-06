@@ -1,0 +1,45 @@
+.card-img-overlay {
+  opacity: 0;
+  transition: .5s ease;
+  background-color: var(--tertiary-colour);
+  text-align: center;
+  border:none !important;
+  border-radius: 0 !important;
+}
+
+.card {
+  max-width: 450px;
+  background-color: var(--tertiary-colour) !important;
+  border:none !important;
+  border-radius: 0 !important;
+}
+
+.btn-project{
+  position: absolute;
+  left: 50%;
+  bottom: 20%;
+  transform: translateX(-50%);
+}
+.card:hover .card-img-overlay{
+  opacity: 1;
+}
+
+.card-img-overlay h3 {
+  color: var(--primary-colour);
+}
+
+.card-img-overlay p{
+  color:var(--secondary-colour);
+}
+
+.card-img-overlay button{
+  border-radius: 0 !important;
+  background-color: #839fb1 !important;
+  color: #E7F3F9  !important;
+  border: none !important;
+}
+
+
+.card-img-overlay button:hover {
+  background-color: #576b77 !important;
+}

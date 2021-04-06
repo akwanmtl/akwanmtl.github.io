@@ -1,0 +1,72 @@
+#footer {
+  padding-top: 6em;
+  background-color: var(--secondary-text) !important;
+  height: 250px;
+  text-align: center;
+}
+
+#footer hr {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-top: 3px solid var(--primary-colour) !important;
+  width: 300px;
+}
+.scroll-top {
+  height: 0px;
+  float: right;
+}
+
+.scroll-top span {
+  position: relative;
+  bottom: 35px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: var(--tertiary-colour);
+  border-radius: 10px;
+  font-size: 30px;
+  transition: all .2s ease-in-out;
+}
+
+.scroll-top span:hover {
+  cursor: pointer;
+  background-color: var(--primary-colour);
+}
+
+.scroll-text{
+  font-size: 20px;
+  color: var(--primary-colour);
+  text-align: center;
+  font-weight: 600;
+}
+
+.icon a {
+  font-size: 40px;
+  color: var(--primary-colour);
+  margin:10px;
+  transition: all .2s ease-in-out;
+}
+
+.icon:hover a {
+  color: var(--tertiary-colour);
+  font-size: 50px;
+}
+
+.inline {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  line-height: 60px;
+}
+
+.copyright {
+  font-size: 16px;
+  color: var(--primary-colour);
+  font-family: sans-serif; 
+  text-align: center;
+  padding-top: 20px;
+}
+
+.copyright span {
+  color: var(--tertiary-colour);
+}

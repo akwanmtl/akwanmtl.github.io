@@ -1,0 +1,49 @@
+.imageModal, .modal-body{
+  padding: 0px !important;
+}
+
+.modal-body {
+  background-color: var(--tertiary-colour);
+}
+
+.modalText {
+  padding: 10px !important;
+  color: var(--primary-colour);
+}
+
+.modalText p {
+  color: var(--secondary-colour);
+}
+
+
+.modalLink {
+  text-align: center;
+}
+
+.modalLink a {
+  width: 120px;
+  border-radius: 0 !important;
+  background-color: #839fb1 !important;
+  color: #E7F3F9  !important;
+  border: none !important;
+  margin: 2px;
+}
+
+
+.modalLink a:hover {
+  background-color: #576b77 !important;
+}
+
+.modal-body button {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  font-size: 30px;
+  color: #032F70 !important;
+}
+
+.modal-body button:not(:hover) {
+  opacity: 1;
+  color: #032F70;
+}
+
